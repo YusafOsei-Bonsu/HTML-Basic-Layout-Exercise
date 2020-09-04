@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: orange;
+  text-align: center;
+}
+
+.orange {
+  background-color: rgb(255, 191, 0);
+}
