@@ -1,4 +1,4 @@
-# Task 1: Setting up the Basic Layout of the Home page
+# Task 1: Setting up the Basic Layout of the Homepage
 
 You have already set up an HTML5 web page for your News home page. You want to set up the basic layout of the page by defining different parts using non-semantic elements such as `<div>`, `<span>`, `<ul>`, and `<table>` and a few semantic elements such as `<header>` and `<nav>` elements. You need to add code so that your page structure reflects these elements.
 
