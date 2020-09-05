@@ -14,3 +14,7 @@ Complete the exercise in the following steps:
      - Tuesday – 29 – clear &#9745;
      - Wednesday – 27 – cloudy with showers &#9745;
 7. Specify dimensions to the three divs you created using the values of your choosing, which contribute to an intuitive layout. &#9745;
+
+## The basic layout website...
+
+![Face of the website](./images/UI.PNG)
