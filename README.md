@@ -7,8 +7,8 @@ Complete the exercise in the following steps:
 1. Create a header for the name of your site which is "Independent News". &#9745;
 2. Create DIV containers for the header and give it a background color of orange. &#9745;
 3. Create a nested DIV container within the "Independent News" DIV container that contains the words "Homepage" and give it a background color of another shade of orange. &#9745;
-4. Set up another div container to hold a navigation menu.
-5. Add the navigation system to the DIV by using an unordered list that has "News", "Sports", "Weather", and "Entertainment" as navigation links.
+4. Set up another div container to hold a navigation menu. &#9745;
+5. Add the navigation system to the DIV by using an unordered list that has "News", "Sports", "Weather", and "Entertainment" as navigation links. &#9745;
 6. Create a table with headers and three rows to display Weather information. Use the following information:
   - Monday – 30 – mostly cloudy
   - Tuesday – 29 – clear
