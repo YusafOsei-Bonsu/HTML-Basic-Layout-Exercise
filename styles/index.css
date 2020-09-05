@@ -40,6 +40,7 @@ nav ul li {
 table {
   border-collapse: collapse;
   margin: 0 auto;
+  margin-bottom: 10px;
 }
 
 table, td, th {
@@ -49,4 +50,24 @@ table, td, th {
 
 th {
   font-size: 30px;
+}
+
+article {
+  margin-left: 10px;
+}
+
+figure {
+  border: 1px solid #000;
+  width: fit-content;
+  float: right;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+figure img {
+  height: 200px;
+}
+
+figcaption {
+  text-align: center;
 }

@@ -34,12 +34,12 @@ Complete the exercise in the following steps:
 
    New York headquarters
    ```
-4. Add the image dogs.JPG to the article and provide the code to categorize it as a figure.
-5. For the figure created in Step 4, add the figure caption information below using the correct code.
+4. Add the image dogs.JPG to the article and provide the code to categorize it as a figure. &#9745;
+5. For the figure created in Step 4, add the figure caption information below using the correct code. &#9745;
    ```
    Happy Dogs
    ```
-6. Provide the code necessary to put a border around the Figure and Figure Caption from Steps 4 and 5 and to make the Figure reside on the right side of the story information in the article.
+6. Provide the code necessary to put a border around the Figure and Figure Caption from Steps 4 and 5 and to make the Figure reside on the right side of the story information in the article. &#9745;
 
 ## The basic layout website...
 
