@@ -6,20 +6,38 @@
     <title>Setting up the Basic Layout of the Homepage</title>
   </head>
   <body>
+    <!-- DIV CONTAINER -->
     <header>
       <h1>Independent News</h1>
-      <div class="orange">
+      <!-- DIV CONTAINER -->
+      <div id="homepage">
         <h4>Homepage</h4>
       </div>
     </header>
+    <!-- A navigational menu to navigate through the website -->
+    <!-- DIV CONTAINER -->
     <nav>
       <ul>
         <li><a href="#news">News</a></li>
         <li><a href="#sports">Sports</a></li>
         <li><a href="#weather">Weather</a></li>
-        <li> <a href="#entertainment">Entertainment</a></li>
+        <li><a href="#entertainment">Entertainment</a></li>
       </ul>
     </nav>
-
+    <main>
+      <!-- This table contains weather information -->
+      <table id="#weather">
+        <thead>
+          <tr>
+            <th>Day</th><th>Degrees</th><th>Weather Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Monday</td><td>30</td><td>Mostly Cloudy</td></tr>
+          <tr><td>Tuesday</td><td>29</td><td>Clear</td></tr>
+          <tr><td>Wednesday</td><td>27</td><td>Cloudy with showers</td></tr>
+        </tbody>
+      </table>
+    </main>
   </body>
 </html>
