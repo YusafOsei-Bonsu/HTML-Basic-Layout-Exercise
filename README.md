@@ -19,7 +19,7 @@ Complete the exercise in the following steps:
 
 ## Task 2: Add additional semantic elements to your Basic Layout
 
-1. Format the navigation area so that it has a background color of blue, a width of 300px, and so that the bullets are removed.
+1. Format the navigation area so that it has a background color of blue, a width of 300px, and so that the bullets are removed. &#9745;
 2. After the weather information, create an article using the information below. Provide the code to ensure there is a separate heading and area for the story itself.
    ```
    Abandoned Dogs Get New Home
