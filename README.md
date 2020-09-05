@@ -1,5 +1,7 @@
 # Creating a HTML5 Basic Layout 
 
+![Face of the website](./images/UI.PNG)
+
 ## Task 1: Setting up the Basic Layout of the Homepage
 
 You have already set up an HTML5 web page for your News home page. You want to set up the basic layout of the page by defining different parts using non-semantic elements such as `<div>`, `<span>`, `<ul>`, and `<table>` and a few semantic elements such as `<header>` and `<nav>` elements. You need to add code so that your page structure reflects these elements.
@@ -40,7 +42,3 @@ Complete the exercise in the following steps:
    Happy Dogs
    ```
 6. Provide the code necessary to put a border around the Figure and Figure Caption from Steps 4 and 5 and to make the Figure reside on the right side of the story information in the article. &#9745;
-
-## The basic layout website...
-
-![Face of the website](./images/UI.PNG)
