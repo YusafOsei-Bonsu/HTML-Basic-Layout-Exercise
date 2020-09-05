@@ -13,4 +13,4 @@ Complete the exercise in the following steps:
      - Monday – 30 – mostly cloudy &#9745;
      - Tuesday – 29 – clear &#9745;
      - Wednesday – 27 – cloudy with showers &#9745;
-7. Specify dimensions to the three divs you created using the values of your choosing, which contribute to an intuitive layout.
+7. Specify dimensions to the three divs you created using the values of your choosing, which contribute to an intuitive layout. &#9745;
