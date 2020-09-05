@@ -20,13 +20,13 @@ Complete the exercise in the following steps:
 ## Task 2: Add additional semantic elements to your Basic Layout
 
 1. Format the navigation area so that it has a background color of blue, a width of 300px, and so that the bullets are removed. &#9745;
-2. After the weather information, create an article using the information below. Provide the code to ensure there is a separate heading and area for the story itself.
+2. After the weather information, create an article using the information below. Provide the code to ensure there is a separate heading and area for the story itself. &#9745;
    ```
    Abandoned Dogs Get New Home
    
    Fido and Benji are very happy to have found a new home. Both dogs were found running around the forest near city limits. They were rescued by the SPCA and quickly adopted by a couple from the suburbs.
    ```
-3. For the article created in Step 2, add a Section that contains the author's information below and provide the code to categorize and define the author of the article.
+3. For the article created in Step 2, add a Section that contains the author's information below and provide the code to categorize and define the author of the article. &#9745;
    ```
    By Joe Reporter
 
